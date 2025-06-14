@@ -86,14 +86,9 @@ See `images/architecture_diagram.png` for the full visual flow.
 
 ## 👥 Team Members
 
-* Abdullah Hani Abdellatif Al-Shobaki – 2284612
 * Mohamed Aiman Mohamed Alkozendar – 2283149
+* Abdullah Hani Abdellatif Al-Shobaki – 2284612
 * Mohammed Ahmed Mohammed Al-labani – 2105990
-
-Special thanks to:
-
-* **Prof. Mahmut Ağan** – Project Supervisor
-* **Fahd Al-Sattaf** – Hardware support & wiring
 
 ---
 
