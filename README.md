@@ -2,7 +2,7 @@
 
 An AI-powered mobile robot that tracks a human hand using real-time computer vision and responds with autonomous movement, obstacle avoidance, and wireless control. Built using the ESP32-CAM module, Arduino Mega, and Python-based control via Gradio.
 
-![Robot Demo](images/Screenshot2026-07-05045058.png)
+![Robot Demo](images/phptp.png)
 
 ---
 
